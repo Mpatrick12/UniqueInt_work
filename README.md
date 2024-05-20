@@ -1,4 +1,4 @@
-# Unique Integer Processor
+# Unique Numerical Processor
 
 This Python script processes a text file containing integers, filters unique integers within the specified range (-1023 to 1023), sorts them using bubble sort, and writes the sorted unique integers to an output file.
 
