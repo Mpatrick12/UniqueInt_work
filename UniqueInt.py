@@ -5,7 +5,7 @@ def process_file(input_file_path, output_file_path):
         # Iterate through each line in the input file
         for line in input_file:
             try:
-
+                
                 number = int(line.strip())
                 # Check if the number falls within the range (-1023 to 1023)
                 if -1023 <= number <= 1023:
